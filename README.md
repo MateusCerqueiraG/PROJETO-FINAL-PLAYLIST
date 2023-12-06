@@ -27,7 +27,7 @@ Este é o projeto final para a matéria de algoritmos e programação estruturad
 >Histórico de lançamento de versões e suas descrições. 📜
 
 |     VERSÃO     |DESCRIÇÃO                                             |
-|----------------|-------------------------------|-----------------------------|
+|----------------|-
 |`v1.0`|Adição do menu, função de inserir música, editar música e fechar programa.           |
 |`v2.0`|Adição das funções remover música, mostrar playlist e buscar música na playlist.            |
 |`v2.1`|Melhoria da função de buscar música, agora também busca artistas.|
