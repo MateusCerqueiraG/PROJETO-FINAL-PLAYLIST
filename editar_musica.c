@@ -33,3 +33,33 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+
+// versao atualizada.
+
+#include <stdio.h>
+#include <string.h>
+
+#define MAX 100
+#define MAX_TITULO 100
+#define MAX_ARTISTA 100
+
+typedef struct {
+    char titulo[MAX_TITULO];
+    char artista[MAX_ARTISTA];
+    int favoritada;
+} Musica;
+
+void editarMusica(Playlist *playlist, int index) {
+    printf("Editando:\n %s %s\n", playlist->musicas[index - 1].titulo, playlist->musicas[index - 1].artista);
+    printf("Novo titulo da musica: ");
+    fgets(playlist->musicas[index - 1].titulo, sizeof(playlist->musicas[0].titulo), stdin);
+    printf("Novo nome do artista: ");
+    fgets(playlist->musicas[index - 1].artista, sizeof(playlist->musicas[0].artista), stdin);
+
+    printf("Informacoes da musica editadas com sucesso.\n");
+}
