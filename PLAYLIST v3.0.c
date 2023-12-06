@@ -73,6 +73,7 @@ void Remover_Musica(Playlist *playlist) {
             printf("Deseja realmente remover a musica de %s - %s ?\n", playlist->musicas[indice - 1].artista, playlist->musicas[indice - 1].titulo);
             printf("1 - Sim\n");
             printf("2 - Nao\n");
+            printf("Escolha uma opcao: ");
             scanf("%d", &opcao);
 
             switch (opcao) {
