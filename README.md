@@ -1,12 +1,45 @@
-PROJETO-FINAL-PLAYLIST
-Repositório destinado ao projeto final da matéria de algoritmos.
-Nesse projeto iremos utilizar a linguagem C para simular uma playlist, começando com a interface (Menu), onde será apresentadas as funcionalidades presentes no projeto, cada membro do grupo fará 1 ou 2 funcionalidades, são elas:
--Menu. (Mateus Cerqueira)
--Adicionar nova música. (Jean)
--Favoritar música. (Vinicius Adson)
--Escolher música aleatória. 
--Remover música. (Jean)
--Mostrar músicas da playlist, exibindo quais foram favoritadas. (Gustavo)
--Editar música da playlist. (Pedro H)
--Buscar uma música. (Daniel Fernandes)
--Baixar playlist. (Mateus Cerqueira)
+# PROJETO FINAL PLAYLIST🎵
+> Este código simula uma playlist de música. 🎧
+
+Este é o projeto final para a matéria de algoritmos e programação estruturada, nele trabalhamos para que o usuário tenha a experiência de poder montar uma playlist de música e usar suas funções.
+
+# INSTALAÇÃO ☁️
+>Abordando como instalar o programa. 👾
+
+**Visual Studio Code**
+
+- Para começar instale o Visual Studio Code de acordo com o sistema operacional do seu computador (Windows, Linux, MAC) no link abaixo. ⬇️
+ - Download do Visual Studio Code [AQUI](https://code.visualstudio.com/download). ⬅️
+
+**C/C++ Compile Run**
+- Agora dentro do VS Code, clique no botão de extensões e procure por C/C++ Compile Run, essa extensão utiliza o gcc para compilar o código e dessa forma fazendo o programa rodar.
+
+**GCC**
+- O gcc é uma ferramenta compiladora que permite transformar os códigos em arquivos executáveis e ele é fundamental para podermos usar o nosso programa. Baixe no link abaixo.⬇️
+- Download do Migw para instalar o gcc [AQUI](https://sourceforge.net/projects/mingw/).⬅️
+- Caso necessário use o tutorial de como instalar o migw [AQUI](https://www.youtube.com/watch?v=BKsdbwGEsDM&t=232s).⬅️
+
+**Código**
+- Agora é só criar um arquivo .c ou baixar o original aqui no github e importar o código para dentro do aplicativo e compilar após isso divirta-se montando suas playlists. 😁
+
+## Histórico de lançamento 📚
+
+>Histórico de lançamento de versões e suas descrições. 📜
+
+|     VERSÃO     |DESCRIÇÃO                                             |
+|----------------|-------------------------------|-----------------------------|
+|`v1.0`|Adição do menu, função de inserir música, editar música e fechar programa.           |
+|`v2.0`|Adição das funções remover música, mostrar playlist e buscar música na playlist.            |
+|`v2.1`|Melhoria da função de buscar música, agora também busca artistas.|
+|`v2.2`|Correção de alguns erros e alteração no texto da função 7 no MENU.|
+|`v3.0`|Adição da função de favoritar músicas.|
+|`v4.0`|Adição das funções de escolher música aleatória e baixar a playlist. Também pequenas correções de bugs e de textos.
+
+## Desenvolvedores 👨‍💻
+>Membros do grupo. 💻
+- Mateus Cerqueira
+- Gustavo Tavares
+- Jean
+- Pedro Henrique
+- Vinicius Adson
+- Daniel Fernandes
