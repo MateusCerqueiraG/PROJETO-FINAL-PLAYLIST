@@ -21,7 +21,7 @@ Este é o projeto final para a matéria de algoritmos e programação estruturad
 - Caso necessário use o tutorial de como instalar o mingw [AQUI](https://www.youtube.com/watch?v=BKsdbwGEsDM&t=232s).⬅️
 
 **Código**
-- Agora é só criar um arquivo .c ou baixar o original aqui no github e importar o código para dentro do aplicativo e compilar após isso divirta-se montando suas playlists. 😁
+- Agora é só criar um arquivo .c ou baixar o original aqui no github, importar o código para dentro do aplicativo e compilar. Após isso divirta-se montando suas playlists. 😁
 
 ## Histórico de lançamento 📚
 
