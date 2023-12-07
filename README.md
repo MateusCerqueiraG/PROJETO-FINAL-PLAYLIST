@@ -17,8 +17,8 @@ Este é o projeto final para a matéria de algoritmos e programação estruturad
 
 **GCC**
 - O gcc é uma ferramenta compiladora que permite transformar os códigos em arquivos executáveis e ele é fundamental para podermos usar o nosso programa. Baixe no link abaixo.⬇️
-- Download do Migw para instalar o gcc [AQUI](https://sourceforge.net/projects/mingw/).⬅️
-- Caso necessário use o tutorial de como instalar o migw [AQUI](https://www.youtube.com/watch?v=BKsdbwGEsDM&t=232s).⬅️
+- Download do Mingw para instalar o gcc [AQUI](https://sourceforge.net/projects/mingw/).⬅️
+- Caso necessário use o tutorial de como instalar o mingw [AQUI](https://www.youtube.com/watch?v=BKsdbwGEsDM&t=232s).⬅️
 
 **Código**
 - Agora é só criar um arquivo .c ou baixar o original aqui no github e importar o código para dentro do aplicativo e compilar após isso divirta-se montando suas playlists. 😁
