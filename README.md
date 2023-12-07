@@ -35,6 +35,7 @@ Este é o projeto final para a matéria de algoritmos e programação estruturad
 |`v2.2`|Correção de alguns erros e alteração no texto da função 7 no MENU.|
 |`v3.0`|Adição da função de favoritar músicas.|
 |`v4.0`|Adição das funções de escolher música aleatória e baixar a playlist. Também pequenas correções de bugs e de textos.|
+|`v4.1`|Melhoria do terminal deixando-o com mais clareza e de forma mais limpa.|
 
 ## Desenvolvedores 👨‍💻
 >Membros do grupo. 💻
