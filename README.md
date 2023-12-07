@@ -40,7 +40,7 @@ Este é o projeto final para a matéria de algoritmos e programação estruturad
 >Membros do grupo. 💻
 - Mateus Cerqueira
 - Gustavo Tavares
-- Jean
+- Jean Breves
 - Pedro Henrique
 - Vinicius Adson
 - Daniel Fernandes
