@@ -1,6 +1,6 @@
 # PROJETO FINAL PLAYLIST🎵
 ![polaroid projeto final](https://github.com/MateusCerqueiraG/PROJETO-FINAL-PLAYLIST/assets/129126812/2cfdcf4f-a924-492a-a899-29f9e46a6c49)
-> Este código simula uma playlist de música. 🎧
+> Esse código simula uma playlist de música. 🎧
 
 Este é o projeto final para a matéria de algoritmos e programação estruturada, nele trabalhamos para que o usuário tenha a experiência de poder montar uma playlist de música e usar suas funções.
 
