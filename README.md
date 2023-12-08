@@ -24,9 +24,9 @@ Este é o projeto final para a matéria de algoritmos e programação estruturad
 - Agora é só criar um arquivo .c ou baixar o original aqui no github, importar o código para dentro do aplicativo e compilar. Após isso divirta-se montando suas playlists. 😁
 
 ## Como usar 👨‍🏫
-> Mostrando como utilizar o programa.
+> Mostrando como utilizar o programa. 🤔
 
-O programa funciona de forma muito simples e interativa, o programa fara uma pergunta e dara opções, digite a opção desejada e pronto.
+O programa funciona de forma muito simples e interativa, o programa fara uma pergunta e dara opções, digite a opção desejada e pronto. 😎
 
 ## Histórico de lançamento 📚
 
