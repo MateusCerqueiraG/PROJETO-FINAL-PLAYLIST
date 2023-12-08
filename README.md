@@ -1,7 +1,5 @@
 # PROJETO FINAL PLAYLIST🎵
-div align="center"
-img src="https://github.com/MateusCerqueiraG/PROJETO-FINAL-PLAYLIST/assets/129126812/dec93a4d-13ab-444f-a06a-df54dea2c755" width="0px" /
-/div
+![PROJETOFINALALBUMCAPE](https://github.com/MateusCerqueiraG/PROJETO-FINAL-PLAYLIST/assets/129126812/dec93a4d-13ab-444f-a06a-df54dea2c755)
 > Esse código simula uma playlist de música. 🎧
 
 Este é o projeto final para a matéria de algoritmos e programação estruturada, nele trabalhamos para que o usuário tenha a experiência de poder montar uma playlist de música e usar suas funções.
