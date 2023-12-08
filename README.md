@@ -1,6 +1,6 @@
 # PROJETO FINAL PLAYLIST🎵
 div align="center"
-img src="[https://desblogada.files.wordpress.co...](https://github.com/MateusCerqueiraG/PROJETO-FINAL-PLAYLIST/assets/129126812/dec93a4d-13ab-444f-a06a-df54dea2c755)" width="0px" /
+img src="https://github.com/MateusCerqueiraG/PROJETO-FINAL-PLAYLIST/assets/129126812/dec93a4d-13ab-444f-a06a-df54dea2c755" width="0px" /
 /div
 > Esse código simula uma playlist de música. 🎧
 
